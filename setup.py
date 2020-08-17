@@ -7,8 +7,8 @@ setup(
     description='An Interpreter for the BrainFuck language.',
     author='Chris Oliver',
     author_email='chrisoliver345@gmail.com',
-    url='',
-    download_url='',
+    url='https://github.com/chrisoliver345/brainfrick-language',
+    download_url='https://pypi.org/project/brainfrick-language/',
     keywords=['brainfuck', 'pypi', 'package', 'brainfrick', 'interpreter'],  # arbitrary keywords
     install_requires=[
         'pytest==2.9.2',
